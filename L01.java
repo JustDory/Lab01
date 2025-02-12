@@ -9,7 +9,7 @@ public class L01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
+        System.out.println("Hello Lab05.");
         System.out.println(String.format("Expected: %b, got: %b", false, isPalindromeA1("abby")));
         System.out.println(String.format("Expected: %b, got: %b", false, isPalindromeA1("Racecar")));
         System.out.println(String.format("Expected: %b, got: %b", false, isPalindromeA1("rasecar")));
